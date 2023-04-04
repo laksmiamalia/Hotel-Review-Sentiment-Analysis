@@ -23,6 +23,10 @@ import string
 import gensim
 import re
 
+Install NLTK and wordCloud
+!pip install nltk
+!pip install wordcloud
+
 ```
 
 ## USED LIBRARY
